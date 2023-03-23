@@ -15,7 +15,7 @@ I'm currently working on FPT<br>Looking to collaborate on DevOps, SecOps, and We
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HieuCyber12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote Everyday
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 

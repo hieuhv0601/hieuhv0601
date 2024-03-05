@@ -1,14 +1,14 @@
 
-### <div align="center">I'm Hieu, a Developer and DevOps Engineer with passionate for Cloud, DevOps, and Security</div>  
+### <div align="center">I'm Hieu, a student with passionate about Cloud, DevOps, and Security</div>  
   
 
-- 🌱 I’m currently learning deep in DevOps and Cloud technology  
+- 🌱 I’m currently learning deep in Data Engineering, DevOps, and Cloud technology.  
   
 
-- ❓ Ask me about anything related to DevOps and related technologies.  
+- ❓ Ask me about anything related to Data Engineering, DevOps, and related technologies.  
   
 
-- ⚡ Fun fact: I was a soldier in military.  
+- ⚡ Fun fact: I was a soldier in the military.  
   
 
 <br/>  

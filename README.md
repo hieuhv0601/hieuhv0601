@@ -88,10 +88,14 @@
   
 
 <br/>  
-![Leetcode Stats](https://leetcard.jacoblin.cool/HieuCyber12?theme=dark&font=K2D&ext=activity)
-br/>  
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hieuhv0601&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+## Leetcode Stats  
+<div align="center"><img src="https://leetcard.jacoblin.cool/HieuCyber12?ext=heatmap" align="center" /></div>  
 
 <br/>  
 
@@ -101,11 +105,15 @@ br/>
 
 
 
+
+
 <br/>  
 
 
 <br />
 
 [![](https://visitcount.itsvg.in/api?id=HieuCyber12&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

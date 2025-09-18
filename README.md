@@ -19,18 +19,6 @@ I'm Hieu, a person with passionate about Cloud, DevOps, and Security for Data ðŸ
 </p>
 
 
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/hieuhv0601"><img src="https://github-readme-stats.vercel.app/api?username=hieuhv0601&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hieuhv0601's GitHub stats" /></a>
-
-<br/>  
-
-## Leetcode Stats  
-<div align="center"><img src="https://leetcard.jacoblin.cool/HieuCyber12?ext=heatmap" align="center" /></div>  
-
 <br/>  
 
 <br/>  

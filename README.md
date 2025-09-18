@@ -5,12 +5,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 -------------
 
-I'm Hieu, a student with passionate about Cloud, DevOps, and Security for Data 🌱 I’m currently learning deeply in Data Engineering, DevOps, and Cloud technology. ❓ Ask me about anything related to Data Engineering, DevOps, and related technologies. ⚡ Fun fact: I was a soldier in the military.
+I'm Hieu, a person with passionate about Cloud, DevOps, and Security for Data 🌱 I’m currently learning deeply in Data Engineering, Software Engineering, and Cloud technology. ❓ Ask me about anything related to Data Engineering, Software Engineering, and related technologies. ⚡ Fun fact: I was a soldier in the military.
 
 * 🌍  I'm based in Hanoi, Vietnam
-* 🖥️  See my portfolio at [hieuhv](http://hieuhv0601.github.io)
 * ✉️  You can contact me at [hieuhv0601@gmail.com](mailto:hieuhv0601@gmail.com)
-* 🧠  I'm learning backend and data engineering
 * 🤝  I'm open to collaborating on data engineer or backend position
 
 ### Skills

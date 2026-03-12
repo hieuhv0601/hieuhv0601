@@ -2,14 +2,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hà Việt Hiếu
 ====================================================================================================================================
 
-Data Engineer
+Software Engineer
 -------------
 
-I'm Hieu, a person with passionate about Cloud, DevOps, and Security for Data 🌱 I’m currently learning deeply in Data Engineering, Software Engineering, and Cloud technology. ❓ Ask me about anything related to Data Engineering, Software Engineering, and related technologies. ⚡ Fun fact: I was a soldier in the military.
+I'm Hieu, a person with passionate about AI, DevOps, and Security for Data and AI 🌱 I’m currently learning deeply in SWE, Data & AI Engineering. ❓ Ask me about anything related to Data Engineering, Software Engineering, and related technologies. ⚡ Fun fact: I was a soldier in the military.
 
 * 🌍  I'm based in Hanoi, Vietnam
 * ✉️  You can contact me at [hieuhv0601@gmail.com](mailto:hieuhv0601@gmail.com)
-* 🤝  I'm open to collaborating on data engineer or backend position
+* 🤝  I'm open to collaborating on data engineer or swe ai position
 
 ### Skills
 
